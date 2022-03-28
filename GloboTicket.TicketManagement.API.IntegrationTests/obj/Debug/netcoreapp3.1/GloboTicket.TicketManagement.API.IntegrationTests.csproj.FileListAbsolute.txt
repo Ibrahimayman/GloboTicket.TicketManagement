@@ -1,0 +1,2 @@
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.API.IntegrationTests.csproj.AssemblyReference.cache
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.API.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig

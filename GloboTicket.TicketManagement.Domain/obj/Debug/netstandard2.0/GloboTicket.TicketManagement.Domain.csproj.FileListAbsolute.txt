@@ -1,0 +1,9 @@
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.deps.json
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.dll
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\bin\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.pdb
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.dll
+D:\Courcs\Exercise files\architecting-asp-dot-net-core-applications-best-practices\09\demos\end\GloboTicket.TicketManagement.Domain\obj\Debug\netstandard2.0\GloboTicket.TicketManagement.Domain.pdb
